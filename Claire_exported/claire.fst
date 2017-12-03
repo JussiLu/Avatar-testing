@@ -2,7 +2,7 @@ name = claire
 type = body+head
 scale = 1
 filename = claire/claire.fbx
-texdir = claire/textures
+texdir = claire
 joint = jointLeftHand = LeftHand
 joint = jointRoot = Hips
 joint = jointLean = Spine
